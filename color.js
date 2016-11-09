@@ -48,7 +48,7 @@ let bright = (Color.redIntensity(rgb)+Color.greenIntensity(rgb)+Color.blueIntens
 }
 //complement
 let comp = []
-  for(let c=0;c<2;c++);
-  rgb = function.rgb().push;
-    return comp;
+  for(let c=0;c<3;c++){
+  comp.push()
 }
+return comp;
